@@ -9,6 +9,10 @@ Usage:
 A demo can be found in the folder called 'eg'
 
 
+The resulting .hx file is intended to be used with this port of box2d:
+http://code.google.com/p/box2dhx/
+
+
 
 /* Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php */
 
